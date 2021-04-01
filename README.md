@@ -26,3 +26,6 @@ You will also see three cards, helping to guide you through the main questions o
 
 At this point, as a user, you're given some brief stats, like the total meeting time, as well as the fastest, and slowest participant. 
 ![image](https://user-images.githubusercontent.com/70920006/113295453-1fe77180-92f0-11eb-8fd6-54d471751a20.png)
+
+## Live Project
+Here is the [deployed version](https://powagile.netlify.app).
