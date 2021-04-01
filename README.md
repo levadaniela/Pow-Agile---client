@@ -29,3 +29,10 @@ At this point, as a user, you're given some brief stats, like the total meeting 
 
 ## Live Project
 Here is the [deployed version](https://powagile.netlify.app).
+
+## Tech Stack
+* React
+* Auth0
+* Material-UI
+* Netlify
+* Cypress 
